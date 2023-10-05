@@ -1,0 +1,81 @@
+#Titulo {
+    background-image:url("Titulo.jpg");
+    color: #ffffff;
+    text-align: center;
+    font-size: 90px;
+    padding: 20px 30px;
+}
+#Eslogan {
+    color: #5f1c1c;
+    text-align: center;
+}
+
+p {
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+    background-color: #754d4d;
+    padding: 20px 30px;
+}
+
+h4 {
+    background-color: rgb(240, 165, 136);
+    color: black;
+    
+    padding: 10px 20px;
+    text-align: center;
+    
+  }
+  .Ficcion{
+    background-color: rgb(111, 192, 152);
+    color: black;
+    
+    padding: 10px 20px;
+    text-align: center;
+    
+  }
+#DOS{
+  background-color: rgb(111, 192, 152);
+  color: black;
+  border: 2px solid rgb(0, 0, 0);
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.TERROR{
+  background-color: rgb(184, 90, 14);
+  color: black;
+  
+  padding: 10px 20px;
+  text-align: center;
+  
+}
+#TRES{
+background-color:rgb(184, 90, 14);
+color: black;
+border: 2px solid rgb(0, 0, 0);
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+a:link {
+    background-color: rgb(240, 165, 136);
+    color: black;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  table{
+    border-collapse:separate;
+    width: 100%;
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(102, 201, 131);
+    padding: 10px 20px;
+  }
+
+  
